@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to Cryptoverse Auth
 
-You can use the [editor on GitHub](https://github.com/CryptoVerseCC/cryptoauth.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In short it's Ethereum Wallet to *OpenID Connect* bridge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This means that any software that implements *OpenID Connect* authentication mechanism is able to use **Cryptoverse Auth** as so called *Identity Provider* and login users that have Ethereum Wallet without requiring anyone to create any accounts or register anywhere.
 
-### Markdown
+You problably know those buttons "Login with Facebook" or "Signin with Google". It's the same thing. In both cases the process of validating the the user is really the user he/she is claiming to be is outsourced to external party (Facebook or Google in those cases). With *Cryptoverse Auth* you are able to do the same, the difference is that it validates that you are the owner of certain Ethereum address and tells the site that yes you really hold private keys to this address and that the site should use this address as your identity instead of your personal info.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You might ask how the site owner will reach you if the only information they receive is your Ethereum address? 
+ETHMail to the rescue. By default *Cryptoverse Auth* passes your dedicated email address to the site your are login into. Those emails have a form of 0xYourAddress@ethmail.cc. You can see **Cryptoverse Auth** and **ETHMail** working together at https://web.ethmail.cc/
 
-```markdown
-Syntax highlighted code block
+## Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CryptoVerseCC/cryptoauth.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me at 0x3b4361d03567a941877299f49b938f050c468651@ethmail.cc
