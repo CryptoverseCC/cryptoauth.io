@@ -11,4 +11,4 @@ ETHMail to the rescue. By default *Cryptoverse Auth* passes your dedicated email
 
 ## Contact
 
-You can contact me at 0x3b4361d03567a941877299f49b938f050c468651@ethmail.cc
+You can contact me at [0x3b4361d03567a941877299f49b938f050c468651@ethmail.cc](mailto:0x3b4361d03567a941877299f49b938f050c468651@ethmail.cc)
