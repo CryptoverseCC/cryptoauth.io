@@ -9,7 +9,7 @@ You problably know those buttons "Login with Facebook" or "Signin with Google". 
 You might ask how the site owner will reach you if the only information they receive is your Ethereum address? 
 ETHMail to the rescue. By default *Cryptoverse Auth* passes your dedicated email address to the site your are login into. Those emails have a form of 0xYourAddress@ethmail.cc. 
 
-You can see **Cryptoverse Auth** in action at [https://web.ethmail.cc/](https://ethmail.cc/) and [https://community.cryptoverse.cc/](https://community.cryptoverse.cc/)
+You can see **Cryptoverse Auth** in action at [https://ethmail.cc/](https://ethmail.cc/) and [https://community.cryptoverse.cc/](https://community.cryptoverse.cc/)
 
 ## Contact
 
