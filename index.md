@@ -13,4 +13,4 @@ You can see **Cryptoverse Auth** in action at [https://ethmail.cc/](https://ethm
 
 ## Contact
 
-You can contact me at [0x6be450972b30891b16c8588dcbc10c8c2aef04da@nekoru.net](mailto:0x6be450972b30891b16c8588dcbc10c8c2aef04da@nekoru.net)
+You can contact me at [xunkulapchvatal@ethmail.cc](mailto:xunkulapchvatal@ethmail.cc)
