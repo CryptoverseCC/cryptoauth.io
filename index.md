@@ -16,3 +16,5 @@ You can see **Cryptoverse Login** in action at [https://ethmail.cc](https://ethm
 ## Contact
 
 You can contact me at [xunkulapchvatal@ethmail.cc](mailto:xunkulapchvatal@ethmail.cc)
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="82c167b2-b01f-43a2-80f1-4e18badcbc52";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
