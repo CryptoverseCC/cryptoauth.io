@@ -1,8 +1,8 @@
-# Configure Discourse with Cryptoauth
+# Configure Discourse with Cryptoverse Login (a.k.a. Cryptoauth)
 
 ## Ask for Client ID and Client Secret
 
-To be able to use cryptoauth with your discourse instance you need client ID and client Secret.
+To be able to use ethereum wallet login with your discourse instance you need client ID and client Secret.
 Feel free to send email to xunkulapchvatal@ethmail.cc, reach out on twitter @xunkulapchvatal or use built-in chat on
 
 ## Recommended settings
