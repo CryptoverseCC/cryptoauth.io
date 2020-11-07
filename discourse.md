@@ -1,12 +1,15 @@
-# Configure Discourse with Cryptoverse Login (a.k.a. Cryptoauth)
+# Integrate Discourse with Cryptoverse Login (a.k.a. Cryptoauth)
 
 ## Ask for Client ID and Client Secret
 
 To be able to use ethereum wallet login with your discourse instance you need client ID and client Secret.
 Feel free to send email to xunkulapchvatal@ethmail.cc, reach out on twitter @xunkulapchvatal or use built-in chat on
 
-## Recommended settings
+## Install OpenID Connect Plugin
 
+Install plugin https://github.com/CryptoverseCC/discourse-openid-connect/ at your discourse instance, you can also use official one (https://github.com/discourse/discourse-openid-connect) but it's missing some features like ENS support.
+
+## Configure your Discourse
 Not all are necessary for login to work.
 
 Discovery document url: https://auth.cryptoverse.cc/.well-known/openid-configuration
