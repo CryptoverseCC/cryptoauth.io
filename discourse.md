@@ -7,12 +7,12 @@ Feel free to send email to xunkulapchvatal@ethmail.cc, reach out on twitter @xun
 
 ## Install OpenID Connect Plugin
 
-Install plugin https://github.com/CryptoverseCC/discourse-openid-connect/ at your discourse instance, you can also use official one (https://github.com/discourse/discourse-openid-connect) but it's missing some features like ENS support.
+Install plugin [CryptoverseCC/discourse-openid-connect](https://github.com/CryptoverseCC/discourse-openid-connect) at your discourse instance, you can also use official one [discourse/discourse-openid-connect](https://github.com/discourse/discourse-openid-connect) but it's missing some features like ENS support.
 
 ## Configure your Discourse
 Not all are necessary for login to work.
 
-Discovery document url: https://auth.cryptoverse.cc/.well-known/openid-configuration
+Discovery document url: [https://auth.cryptoverse.cc/.well-known/openid-configuration](https://auth.cryptoverse.cc/.well-known/openid-configuration)
 
 ![---](discourse-openid.png "Discourse - OpenID plugin settings")
 ![---](discourse-login.png "Discourse - Login settings")
