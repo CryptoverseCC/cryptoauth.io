@@ -12,7 +12,7 @@ Install plugin [CryptoverseCC/discourse-openid-connect](https://github.com/Crypt
 ## Configure your Discourse
 Not all are necessary for login to work.
 
-Discovery document url: [https://auth.cryptoverse.cc/.well-known/openid-configuration](https://auth.cryptoverse.cc/.well-known/openid-configuration)
+Discovery document url: [https://login.cryptoverse.cc/.well-known/openid-configuration](https://login.cryptoverse.cc/.well-known/openid-configuration)
 
 ![---](discourse-openid.png "Discourse - OpenID plugin settings")
 ![---](discourse-login.png "Discourse - Login settings")
