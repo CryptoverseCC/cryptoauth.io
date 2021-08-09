@@ -11,7 +11,7 @@ ETHMail to the rescue. By default _Cryptoverse Auth_ passes your dedicated email
 
 ## Showcase
 
-You can see **Cryptoverse Login** in action at [https://ethmail.cc](https://ethmail.cc) and [https://community.cryptoverse.cc](https://community.cryptoverse.cc)
+You can see **Cryptoverse Login** in action at [https://ethmail.cc](https://ethmail.cc) and [https://community.cryptoverse.cc](https://community.cryptoverse.cc) and [https://forum.kleros.io/](https://forum.kleros.io/)
 
 ## How To
 
