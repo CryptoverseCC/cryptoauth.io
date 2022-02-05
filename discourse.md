@@ -1,9 +1,19 @@
 # Integrate Discourse with Cryptoverse Login (a.k.a. Cryptoauth)
 
-## Ask for Client ID and Client Secret
+## Get Client ID and Client Secret
 
 To be able to use ethereum wallet login with your discourse instance you need client ID and client Secret.
-Feel free to send email to xunkulapchvatal@ethmail.cc, reach out on twitter @xunkulapchvatal or use built-in chat on
+You can obtain them by calling registration API:
+
+```
+> curl --header "Content-Type: application/json" \
+    --request POST \
+    --data '{"redirect_uris":["https://client.example.org/callback"],"token_endpoint_auth_method": "client_secret_basic"}' \
+    https://login.cryptoverse.cc/oauth2/register -v
+...
+```
+
+Remember to pass proper **redirect_uris**
 
 ## Install OpenID Connect Plugin
 
